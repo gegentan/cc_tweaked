@@ -9,26 +9,6 @@ r6 = peripheral.wrap("redstoneIntegrator_" .. ri1+5)
 r7 = peripheral.wrap("redstoneIntegrator_" .. ri1+6)
 r8 = peripheral.wrap("redstoneIntegrator_" .. ri1+7)
 
---reload rI
-
-r1.setOutput("top", true)
-r2.setOutput("top", true)
-r3.setOutput("top", true)
-r4.setOutput("top", true)
-r5.setOutput("top", true)
-r6.setOutput("top", true)
-r7.setOutput("top", true)
-r8.setOutput("top", true)
-
-r1.setOutput("top", false)
-r2.setOutput("top", false)
-r3.setOutput("top", false)
-r4.setOutput("top", false)
-r5.setOutput("top", false)
-r6.setOutput("top", false)
-r7.setOutput("top", false)
-r8.setOutput("top", false)
-
 --setup
 
 r1.setOutput("top", true)
