@@ -1,1 +1,1 @@
-just to make canoons in "create big canoons mod" automatically
+just some cc tweaked (computercraft) projects :]
